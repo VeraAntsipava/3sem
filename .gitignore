@@ -1,0 +1,11 @@
+# Исполняемые файлы и отчеты
+Main
+Creator
+Reporter
+*.bin
+*.txt
+build/
+
+# Системные файлы macOS и VS Code
+.DS_Store
+.vscode/
